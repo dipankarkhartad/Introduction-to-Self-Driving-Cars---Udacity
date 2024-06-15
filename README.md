@@ -10,7 +10,7 @@ The tasks completed in the nanodegree are listed below
 2. 2D Histogram Filter in Python
 3. Implement a Matrix Class in Python
 4. Implement a Matrix Class in C++ with improved performance
-5. Implement a Route planner (like Google Maps using python)
+5. Implement a Route planner 
 6. Reconstructing Trajectories from Sensor Data
 7. Traffic Light Classifier
 
